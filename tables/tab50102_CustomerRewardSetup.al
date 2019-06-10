@@ -6,7 +6,7 @@ table 50102 "Customer Rewards Mgt. Setup"
         {
         }
 
-        field(2; "Customer Rewards Ext. Mgt. Codeunit ID"; Integer)
+        field(2; "Cust. Rewards Mgt. Codeunit ID"; Integer)
         {
             TableRelation = "CodeUnit Metadata".ID;
         }
